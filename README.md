@@ -13,7 +13,7 @@ I enjoy solving structural, real-world problems—whether that means designing a
 
 I currently work at Viakable in the IT department as a Senior Developer. &nbsp; &nbsp;
 <a href="https://viakable.com/">
-  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo3y5NWkHhoS7iIHARFKf1XIjQZEtNc-1Big&s](https://viakable.com/wp-content/uploads/cropped-favicon-1-270x270.png)"
+  <img src="https://viakable.com/wp-content/uploads/cropped-favicon-1-270x270.png"
        width="30"
        height="30"
        style="border-radius:50%;"/>
