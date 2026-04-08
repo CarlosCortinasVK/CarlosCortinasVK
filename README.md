@@ -19,6 +19,38 @@ I currently work at Viakable in the IT department as a Senior Developer. &nbsp; 
        style="border-radius:50%;"/>
 </a>
 
+Providing services to the brand's various companies like.
+<a href="https://viakable.com/">
+  <img src="https://viakable.com/wp-content/uploads/vialutek300.png"
+       width="30"
+       height="30"
+       style="border-radius:50%;"/>
+</a>
+<a href="https://viakable.com/">
+  <img src="https://viakable.com/wp-content/uploads/multipak-2025-02.png"
+       width="30"
+       height="30"
+       style="border-radius:50%;"/>
+</a>
+<a href="https://viakable.com/">
+  <img src="https://viakable.com/wp-content/uploads/magnekon-logo.png"
+       width="30"
+       height="30"
+       style="border-radius:50%;"/>
+</a>
+<a href="https://viakable.com/">
+  <img src="https://viakable.com/wp-content/uploads/cme.png"
+       width="30"
+       height="30"
+       style="border-radius:50%;"/>
+</a>
+<a href="https://viakable.com/">
+  <img src="https://viakable.com/wp-content/uploads/viakable-2026-homecarussel.png"
+       width="30"
+       height="30"
+       style="border-radius:50%;"/>
+</a>
+
 
 ## 💻 What I Work With
 
