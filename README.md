@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://avatars.githubusercontent.com/u/189380236?v=4" align="center" alt="Github profile photo" width="180" height="180"/>
+ <img src="https://avatars.githubusercontent.com/u/189380236?v=4" align="center" alt="Github profile photo" width="180" height="180" style="border-radius:30%;"/>
  <h2 align="center">Hi there, I'm <a href="https://CarlosCortinasVK.github.io">Carlos</a>👋</h2>
 </p>
 
@@ -14,40 +14,8 @@ I enjoy solving structural, real-world problems—whether that means designing a
 I currently work at Viakable in the IT department as a Senior Developer. &nbsp; &nbsp;
 <a href="https://viakable.com/">
   <img src="https://viakable.com/wp-content/uploads/cropped-favicon-1-270x270.png"
-       width="30"
-       height="30"
-       style="border-radius:50%;"/>
-</a>
-
-Providing services to the brand's various companies like.
-<a href="https://viakable.com/">
-  <img src="https://viakable.com/wp-content/uploads/vialutek300.png"
-       width="30"
-       height="30"
-       style="border-radius:50%;"/>
-</a>
-<a href="https://viakable.com/">
-  <img src="https://viakable.com/wp-content/uploads/multipak-2025-02.png"
-       width="30"
-       height="30"
-       style="border-radius:50%;"/>
-</a>
-<a href="https://viakable.com/">
-  <img src="https://viakable.com/wp-content/uploads/magnekon-logo.png"
-       width="30"
-       height="30"
-       style="border-radius:50%;"/>
-</a>
-<a href="https://viakable.com/">
-  <img src="https://viakable.com/wp-content/uploads/cme.png"
-       width="30"
-       height="30"
-       style="border-radius:50%;"/>
-</a>
-<a href="https://viakable.com/">
-  <img src="https://viakable.com/wp-content/uploads/viakable-2026-homecarussel.png"
-       width="30"
-       height="30"
+       width="70"
+       height="70"
        style="border-radius:50%;"/>
 </a>
 
